@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require_relative "bsn_validator/version"
+require_relative "bsn/version"
 
 module Cosmopolitan
-  module BsnValidator
+  module Bsn
     class Error < StandardError; end
     # Your code goes here...
   end
