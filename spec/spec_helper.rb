@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "cosmopolitan/bsn_validator"
+require "cosmopolitan/bsn"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

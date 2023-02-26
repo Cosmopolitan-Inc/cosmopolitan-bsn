@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in cosmopolitan-bsn_validator.gemspec
+# Specify your gem's dependencies in cosmopolitan-bsn.gemspec
 gemspec
 
 gem "rake", "13.0.6"
